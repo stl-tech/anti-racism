@@ -3,35 +3,41 @@
 This is the beginning of a curriculum/syllabus for the St. Louis Anti-Racism study group.
 Currently it's just an uncurrated list of ideas.
 
-## Specific to St. Louis
-* Pruitt-Igoe
-    * Wikipedia
-* Civil War
-* Statues - why were they erected?
-* Delmar Divide
-    * Wikipedia
-* Sundown towns in the area
-* County municipalities driving west
-* White flight from North County to St. Charles County
-    * Movie: /Spanish Lake/
-* East St. Louis Massacre (1917)
-    * W.E. Du Bois wrote: "it was a more important question — whether or not [the White man] should lose his front-room and Victrola and even the dream of a Ford car."
-    * /The Broken Heart of America/
+### Specific to St. Louis
 * Missouri Compromise of 1820
 * Indian Removal policies
+* Dred Scott (1857)
+* Civil War
 * 1904 World's Fair exhibit of Africans
+* East St. Louis Massacre (1917)
+	* W.E. Du Bois wrote: "it was a more important question — whether or not [the White man] should lose his front-room and Victrola and even the dream of a Ford car."
+	* /The Broken Heart of America/
 * Desegregation
-* Dred Scott
+* Pruitt-Igoe
+	* Wikipedia
+* Statues - why were they erected?
+* Delmar Divide
+	* Wikipedia
+* Sundown towns in the area
+* Driving west through county municipalities
+* White flight from North County to St. Charles County
+	* Movie: /Spanish Lake/
 * Redlining
-    * "In 1916, St. Louisans voted on a “reform” ordinance that would prevent anyone from buying a home in a neighborhood more than 75 percent occupied by another race."
-        * https://www.stlmag.com/news/the-color-line-race-in-st.-louis/
-    * Lots of other good local stuff
-    * FHA ratings of Black neighborhoods
+	* "In 1916, St. Louisans voted on a “reform” ordinance that would prevent anyone from buying a home in a neighborhood more than 75 percent occupied by another race."
+		* https://www.stlmag.com/news/the-color-line-race-in-st.-louis/
+			* Lots of other good local stuff
+	* FHA ratings of Black neighborhoods
 * Covenants
-    * Shelley v. Kraemer
+	* 	Shelley v. Kraemer (1948)
+		* House is at 4600 Labadie
+		* Wikipedia
+		* https://mohistory.org/blog/deeds-of-mistrust/
 * Fairgrounds Park riot (1949)
-    * First day Black people could swim in the pool
+	* First day Black people could swim in the pool
 * Jefferson Bank protest (1963)
+* Jones v. Alfred H. Mayer Company (1968 Supreme Court case, prohibits all discrimination against blacks in the sale and rental of property, including governmental and private discrimination)
+	* Based on the Civil Rights Act of 1866
+	* Wikipedia
 * Veiled Prophet fair
 * 2 police unions
 
